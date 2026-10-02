@@ -1,4 +1,4 @@
-Prediksi Diabetes Menggunakan Machine Learning
+Perbandingan Performa Algoritma Machine Learning untuk Prediksi Diabetes
 
 Project ini membahas klasifikasi diabetes menggunakan Pima Indians Diabetes Database. Data diproses untuk menangani nilai yang tidak valid dan missing value dengan beberapa metode imputasi, yaitu Mean, Median, KNN Imputer, dan MICE. Selanjutnya, beberapa algoritma machine learning digunakan untuk membandingkan performa model dalam memprediksi status diabetes.
 
