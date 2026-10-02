@@ -5,11 +5,11 @@ Project ini membahas klasifikasi diabetes menggunakan Pima Indians Diabetes Data
 Model yang digunakan meliputi Random Forest, Decision Tree, Logistic Regression, dan XGBoost. Evaluasi dilakukan menggunakan accuracy, precision, recall, F1-score, serta 5-Fold Cross Validation. Analisis SHAP juga digunakan untuk melihat fitur yang paling berpengaruh terhadap hasil prediksi.
 
 Tools
-Python
-Pandas
-NumPy
-Scikit-learn
-XGBoost
-SHAP
-Matplotlib
-Seaborn
+-Python
+-Pandas
+-NumPy
+-Scikit-learn
+-XGBoost
+-SHAP
+-Matplotlib
+-Seaborn
